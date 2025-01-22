@@ -25,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandro132&" alt="sandro132" /></p>
 
+[![roadmap.sh](https://roadmap.sh/card/tall/67904cb198c00f7117ecee73?variant=dark)](https://roadmap.sh)
